@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+An interactive iPhone 15 website showcasing the model with a sleek, dynamic design. The first section features an iPhone 15 displayed against a 'Titanium' background with an engaging text effect. The second section highlights key features with four autoplay videos, complete with a reset button for seamless navigation. In the final section, users can explore different iPhone models, change the color and size, and interactively rotate the device by clicking and dragging, offering an immersive and personalized experience.
